@@ -3,7 +3,7 @@
     class="container relative pt-6 pb-24 md:max-w-112 md:pt-24"
     @keyup.enter="login"
   >
-    <h2 class="pb-6">{{ $t('account.login.title') }}</h2>
+    <h2 class="pb-6">{{ $t('account.login.title') }} updated</h2>
 
     <div class="mb-6">
       <InputText
